@@ -9,7 +9,7 @@
     <img src="client/public/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center"><a href="https://tutotube-frontend.onrender.com" target="_blank">TutoTube</a></h3>
+  <h3 align="center"><a href="https://tutotube.onrender.com/" target="_blank">TutoTube</a></h3>
   <p align="center">
     <br />
     <br />
@@ -21,7 +21,7 @@
 
 ### TutoTube
 
-### Project Link: [https://tutotube-frontend.onrender.com](https://tutotube-frontend.onrender.com)
+### Project Link: [https://tutotube.onrender.com/](https://tutotube.onrender.com/)
 Must visit it for better view !🥰 
 
 ### Introduction
@@ -139,7 +139,7 @@ This section lists about the languages used in this project .
 
 Your Name - [@Shahil9728](https://twitter.com/Shahil9728) - shahilverma91383@gmail.com
 
-Project Link: [https://tutotube-frontend.onrender.com](https://tutotube-frontend.onrender.com)
+Project Link: [https://tutotube.onrender.com/](https://tutotube.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
