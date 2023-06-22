@@ -28,6 +28,8 @@ Must visit it for better view !🥰
 
 Welcome to our AI-powered platform, where getting answers to your questions is as easy as providing a YouTube video link. Our platform is purposefully designed to extract relevant information from a single video and produce accurate responses to your inquiries. With our website, you can save time and effort by quickly accessing the information you need from a video. Our AI system scrutinizes the video you provide and extracts the necessary information to answer your question. This makes our platform an extremely precise and efficient means of obtaining knowledge from video content. Our user-friendly website is accessible to anyone seeking valuable insights on a broad range of subjects. Join us today to experience the groundbreaking power of our AI technology! The application built with MERN stack integrates OpenAI and LangChain technologies to provide an accurate and efficient question-answering system that generates transcripts from YouTube videos.
 
+# This is my first MERN stack project
+
 
 ### DOCUMENTATION
 
