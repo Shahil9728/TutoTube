@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Shahil9728/TutoTube">
-    <img src="client/public/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Shahil9728/TutoTube/assets/96991517/00da6cac-547e-4b88-838f-b8ed9d6004a0" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"><a href="https://tutotube.onrender.com/" target="_blank">TutoTube</a></h3>
@@ -76,7 +76,7 @@ Access the application in your web browser.
 <!-- IMAGES -->
 ### WEBSITe SCREENSHOTS
 
-![Alt image](ss1.png)
+![Alt image](https://github.com/Shahil9728/TutoTube/assets/96991517/cabfe692-76e8-4cca-bc32-14e19264e0da)
 
 <br/>
 
